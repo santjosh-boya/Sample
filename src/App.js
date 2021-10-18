@@ -13,6 +13,6 @@ const sortByOptions = [
   },
 ]
 
-const App = () => <div>Hello World</div>
+const App = () => <div>Helloth World</div>
 
 export default App
